@@ -1,0 +1,14 @@
+{/* <nav>
+        <ul>
+          <li>
+            {/* Link changes page without refresh */}
+            <Link to="/">Home</Link>
+          </li>
+          <li>
+            <Link to="/productspage">ProductsPage</Link>
+          </li>
+          <li>
+            <Link to="/cart">Cart</Link>
+          </li>
+</ul>
+      </nav> */}
